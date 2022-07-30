@@ -126,14 +126,12 @@ C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\TestWFDesigner\
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\TestWFDesigner\openChildWorkflowWindow.g.cs
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\TestWFDesigner\runInfoControl.g.cs
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\TestWFDesigner\startWorkflowWindow.g.cs
-C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\UserTree2.g.cs
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\App.g.cs
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\GeneratedInternalTypeHelper.g.cs
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\WpfApp_09_Style_TabControl_MarkupCompile.cache
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\WpfApp_09_Style_TabControl_MarkupCompile.lref
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\MainWindow.baml
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\TestWFDesigner\designWindow.baml
-C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\UserTree2.baml
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\WpfApp_09_Style_TabControl.g.resources
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\WpfApp_09_Style_TabControl.TestWFDesigner.SR.resources
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\obj\Debug\net48\WpfApp_09_Style_TabControl.csproj.GenerateResource.cache

@@ -46,10 +46,7 @@
             </TabControl.Resources>
             <TabItem Header="WorkFlow">
                 <local2:DesignWindow/>
-            </TabItem>
-            <TabItem Header="TreeSearch">
-                <local:UserTree2/>
-            </TabItem>
+            </TabItem>            
         </TabControl>
     </Grid>
 </Window>

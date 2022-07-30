@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETFRAMEWORK;NET48;
 C:\_2022___\_Rabota__Bizaps__Src___2__\wf_tbctrl\App.xaml
-12741131820
+11-40263449
 
-50805337166
+49773747173
 491986833966
-MainWindow.xaml;TestWFDesigner\activityBuilder.xaml;TestWFDesigner\addArgumentWindow.xaml;TestWFDesigner\controlControl.xaml;TestWFDesigner\createWorkflowWindow.xaml;TestWFDesigner\designWindow.xaml;TestWFDesigner\displayFlowcharControl.xaml;TestWFDesigner\nodeControl.xaml;TestWFDesigner\openChildWorkflowWindow.xaml;TestWFDesigner\runInfoControl.xaml;TestWFDesigner\startWorkflowWindow.xaml;UserTree2.xaml;
+MainWindow.xaml;TestWFDesigner\activityBuilder.xaml;TestWFDesigner\addArgumentWindow.xaml;TestWFDesigner\controlControl.xaml;TestWFDesigner\createWorkflowWindow.xaml;TestWFDesigner\designWindow.xaml;TestWFDesigner\displayFlowcharControl.xaml;TestWFDesigner\nodeControl.xaml;TestWFDesigner\openChildWorkflowWindow.xaml;TestWFDesigner\runInfoControl.xaml;TestWFDesigner\startWorkflowWindow.xaml;
 
-False
+True
 
